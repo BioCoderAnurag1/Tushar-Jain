@@ -1,0 +1,25 @@
+# Dr. Tushar Jain — Academic & Professional Portfolio
+
+The website has been **restored to its full-featured, modern portfolio design**.
+
+---
+
+## 🌟 Restored Features & Architecture
+- **[index.html](file:///c:/Users/Chauh/Downloads/t/index.html)**
+  - **Hero Section:** High-resolution portrait of Dr. Tushar Jain with floating badges (*Senior Tech Specialist @ Infosys*, *Ph.D. NIT Kurukshetra*), executive biography, quick contact pills, and primary CTAs.
+  - **Animated Metrics Banner:** Live counter for 22+ Years Total Experience, 34+ Scholarly Papers, ₹36L+ Research Grants, GATE AIR 999 rank, 15+ Keynotes, and 20+ FDPs.
+  - **Interactive Publications Engine:** Live real-time search and category filtering across all 34 peer-reviewed journal and conference publications, with one-click "Copy Citation" (BibTeX/APA) and direct DOI links.
+  - **Career Timeline:** Complete progression across Infosys Ltd, NIET Greater Noida, MIET Meerut (HOD), and IIT Delhi (PAR Lab SRF).
+  - **Education & Credentials:** Ph.D. (NIT Kurukshetra), M.Tech CSE Honors (GGSIPU Delhi, 85%), M.Tech ME AI (UPTU, 9.33 CPI), MCA Honors, B.Tech Honors, GATE AIR 999, UGC-NET.
+  - **Funded Research Grants:** AICTE MODROBS (₹21L CAD/CAM Lab & ₹15L IC Engine Lab), BIRAC COVID-19 shield project, AKTU FDPs.
+  - **Keynotes & Service:** Keynotes at Symbiosis Pune, IEI World Standard Day, session chairing, and journal reviewing.
+  - **Contact & Connect:** Working interactive message composer, direct mail/phone buttons, and dynamic vCard (.vcf) download.
+  - **Dark / Light Theme Toggle:** Accessible via the top navbar with persistent `localStorage` preference.
+  - **Print CV Mode:** Generates a clean, traditional curriculum vitae PDF on `Ctrl + P` or by clicking "Print CV".
+
+- **[styles.css](file:///c:/Users/Chauh/Downloads/t/styles.css)** — Complete design system with dark/light mode CSS variables, responsive grid, glassmorphism, and print stylesheet.
+- **[script.js](file:///c:/Users/Chauh/Downloads/t/script.js)** — Client-side search & filter engine, counter animations, theme switcher, vCard generator, and modal handling.
+- **[data.js](file:///c:/Users/Chauh/Downloads/t/data.js)** — Comprehensive dataset for all 34 publications and profile metadata.
+- **[assets/profile.jpg](file:///c:/Users/Chauh/Downloads/t/assets/profile.jpg)** — High-resolution portrait photo.
+- **[assets/research-preview.jpg](file:///c:/Users/Chauh/Downloads/t/assets/research-preview.jpg)** — Research diagram illustration.
+- **[CV_Tushar Jain updated new.doc](file:///c:/Users/Chauh/Downloads/t/CV_Tushar%20Jain%20updated%20new.doc)** — Original CV document.

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jain;Tushar;;Dr.;
+FN:Dr. Tushar Jain
+ORG:Infosys Ltd
+TITLE:Senior Tech Specialist & AI/Computer Vision Researcher
+TEL;TYPE=CELL,VOICE:+917983784213
+EMAIL;TYPE=PREF,INTERNET:tujain04@gmail.com
+EMAIL;TYPE=INTERNET:tusharkaid@gmail.com
+ADR;TYPE=WORK:;;Greater Noida;UP;201310;India
+NOTE:Ph.D. in Computer Vision (NIT Kurukshetra) | 22+ Years Industry & Academic Experience
+URL:https://tusharjain.dev
+END:VCARD
+
